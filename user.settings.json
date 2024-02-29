@@ -1,0 +1,37 @@
+[
+  {
+    "name":"matcalc\/import\/file\/has-header", 
+    "value":true, 
+    "description":""
+  },
+  {
+    "name":"matcalc\/import\/file\/skip\/lines", 
+    "value":true, 
+    "description":""
+  },
+  {
+    "name":"matcalc\/import\/file\/skip\/matches", 
+    "value":"#,@,$", 
+    "description":""
+  },
+  {
+    "name":"newdendrogram\/min-exp-mode", 
+    "value":true, 
+    "description":""
+  },
+  {
+    "name":"newdendrogram\/min-expression", 
+    "value":2.0, 
+    "description":""
+  },
+  {
+    "name":"newdendrogram\/min-stdev", 
+    "value":1.5, 
+    "description":""
+  },
+  {
+    "name":"newdendrogram\/transform", 
+    "value":0, 
+    "description":""
+  }
+]
